@@ -1,0 +1,1 @@
+web: gunicorn classviews.wsgi --log-file -
